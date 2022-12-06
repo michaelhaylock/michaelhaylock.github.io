@@ -1,7 +1,7 @@
 ---
 title: "The role of preferences, attitudes, and personality traits in labor market matching"
 collection: publications
-permalink: /publication/2019-1
+permalink: /publication/2019-sorting
 excerpt: 
 date: 2019
 venue: 'Economics letters'
